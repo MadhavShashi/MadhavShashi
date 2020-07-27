@@ -1,5 +1,5 @@
 ## Hi, I'm Madhav 👋
-![](blob/master/pic1.PNG)
+![](pic1.PNG)
 <!--
 **MadhavShashi/MadhavShashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
