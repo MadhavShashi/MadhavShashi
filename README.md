@@ -1,6 +1,7 @@
 ## Hi, I'm Madhav 👋
+![pic1](https://user-images.githubusercontent.com/49862149/88538281-b0b4d180-d02c-11ea-99ff-1bcd3a98542d.PNG)
+
 <!--
-![](/pic1.PNG)
 
 **MadhavShashi/MadhavShashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
