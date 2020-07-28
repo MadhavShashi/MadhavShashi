@@ -3,7 +3,7 @@
 
 <p>I'm a Machine Learning engineer who is passionate about creating technology to elevate people. Some technologies I enjoy working with including Machine Learning, Deep Learning and Data Science.</p>
 <p>In the past, I have worked with  EXL Services as senior executive in claims and responsible for support robotics and also worked with TechMahindra. </p>
-<p>Currently, I am looking for a full-time role in Data Science, Machine Learning or related field.😄 </p>
+<p>Currently, I am looking for a full-time role in Machine Learning, Deep Learning, and Data Science  or related field.😄 </p>
 
 
 <!--
